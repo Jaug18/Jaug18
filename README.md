@@ -3,7 +3,6 @@
 <p>Bienvenido a mi página! </br> Soy <b>José Alberto Uhia Garcia</b>, Ingeniero de Sistemas y Desarrollador Full-Stack (React + NestJS) de <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/> <b>Cartagena de Indias, Colombia</b>. </p>
 
 <p>
-💼 Actualmente trabajo como <b>Junior Fullstack Developer</b> en <b>IPS Cuidado Seguro En Casa SA</b><br/>
 🎓 Estudiante de <b>Ingeniería de Sistemas</b> en la Universidad de Cartagena<br/>
 🔬 Investigador en <b>Brain-Computer Interfaces (BCI)</b> y análisis estadístico aplicado a salud<br/>
 🌱 Aprendiendo <b>TypeScript avanzado, GraphQL, Microservicios y Testing automatizado</b><br/>
